@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Zerda Onmaz! 👋
 
-<!--
-**zerdaonmaz/zerdaonmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student | Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+I am a second-year Computer Engineering student at Erciyes University, focused on building robust software solutions. I combine technical precision with a passion for global exploration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Toolkit
+- **Languages:** Java, C#, C, MATLAB
+- **Focus Areas:** Object-Oriented Programming (OOP), SDK Integrations, Numerical Analysis
+- **Current Project:** Working on C# SDK-based camera monitoring systems 📹
+
+### 🏔️ Explorer & Strategist
+When I'm not coding, I'm likely:
+- **Scaling heights:** Mountaineering & Camping ⛺
+- **In the zone:** Playing Volleyball, Tennis, or Badminton 🏸
+- **Strategizing:** Chess enthusiast ♟️
+
+### 🌍 Global Vision
+- 🎯 Seeking international internship opportunities.
+- 🌱 Constantly learning and pushing boundaries in software engineering.
+- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/zerdaonmaz)
+
+---
+*"Engineering the future, one peak at a time."*
